@@ -339,6 +339,10 @@ img {
   box-shadow: var(--shadow);
 }
 
+textarea {
+  resize: none;
+}
+
 footer {
   padding: 2rem 1.25rem;
   text-align: center;
